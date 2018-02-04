@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/essential/mata/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
     vendor/essential/mata/proprietary/framework/com.quicinc.cne.api-V1.0-java.jar:system/framework/com.quicinc.cne.api-V1.0-java.jar \
     vendor/essential/mata/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
-    vendor/essential/mata/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/essential/mata/proprietary/lib/com.qualcomm.qti.dpm.api@1.0.so:system/lib/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/essential/mata/proprietary/lib/com.qualcomm.qti.imscmservice@1.0.so:system/lib/com.qualcomm.qti.imscmservice@1.0.so \
     vendor/essential/mata/proprietary/lib/lib-imscamera.so:system/lib/lib-imscamera.so \
